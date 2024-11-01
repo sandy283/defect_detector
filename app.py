@@ -1,14 +1,8 @@
 import base64
 import streamlit as st
-import plotly.express as px
-import os
 import google.generativeai as genai
 from PIL import Image
 import time
-import io
-
-# Load the iris dataset for later use in the app (not related to the main functionality)
-df = px.data.iris()
 
 @st.cache_data
 def get_img_as_base64(file):
