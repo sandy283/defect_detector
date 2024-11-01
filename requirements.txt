@@ -3,3 +3,4 @@ pybase64
 streamlit
 time
 pillow
+pip
