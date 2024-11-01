@@ -1,5 +1,5 @@
 google-generativeai
-base64
-PIL
+pybase64
+streamlit
 time
 streamlit
