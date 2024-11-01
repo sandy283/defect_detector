@@ -91,7 +91,7 @@ def app_function(image):
                                     
                                     Note: Holes are not considered defects.
                                     
-                                    Answer YES or NO only.""", img_resized], stream=True)
+                                    Answer DEFECTED or NOT-DEFECTED only.""", img_resized], stream=True)
     response.resolve()
 
     return response.text
