@@ -2,4 +2,4 @@ google-generativeai
 base64
 PIL
 time
-io
+streamlit
