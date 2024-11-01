@@ -2,4 +2,4 @@ google-generativeai
 pybase64
 streamlit
 time
-streamlit
+pillow
